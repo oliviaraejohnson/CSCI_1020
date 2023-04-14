@@ -1,0 +1,1 @@
+In this course, students learn how to use python, linux, and github. The code is reinforced with concepts from bioinformatics.
